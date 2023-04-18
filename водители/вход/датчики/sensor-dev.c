@@ -1406,4 +1406,3 @@ module_exit(sensor_exit);
 MODULE_AUTHOR("ROCKCHIP Corporation:lw@rock-chips.com");
 MODULE_DESCRIPTION("User space character device interface for sensors");
 MODULE_LICENSE("GPL");
-
